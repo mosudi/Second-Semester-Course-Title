@@ -1,0 +1,10 @@
+COURSE CODE AND TITLE
+GNS112-Use of English II
+MAT102-General MathematicsII
+GNS104-Yoruba Language Studies
+CSC102-Introduction to Problem Solving
+CSC112-Introduction to Computer ScienceII
+CSC104-Introduction to Computer Science
+PHY102-General PhysicsII
+PHY108-General PhysicsII Practical
+CSC123-Introduction to Computer Science and ProgrammingII
